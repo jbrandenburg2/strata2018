@@ -1,2 +1,2 @@
 # strata2018
-video
+Short video describing my Strata ABM abstract.
